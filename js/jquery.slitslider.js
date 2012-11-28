@@ -536,7 +536,7 @@
 			
 			if ( callback ) {
 
-				callback.call( $items );
+				callback.call( this.$slides );
 
 			}
 
